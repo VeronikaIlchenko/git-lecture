@@ -3,4 +3,5 @@ Hello world!
 Hello world! 
 Hello world! 
 hello from feature 1
+Hello from master
 
